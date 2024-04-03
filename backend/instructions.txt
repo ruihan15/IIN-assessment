@@ -1,0 +1,11 @@
+To run this project, you will need to download Node.js
+Current node version used in testing is 21.7.1
+After opening the project in the terminal,  run the command to install packages: 'npm install'
+run the command: 'node demo.js'
+the program will then prompt you to enter the corresponding inputs/parameter 
+Enter state name parameter with value to return population history of the state
+Example: state_name=Alabama
+Or
+Enter year to return list of state names and population, 2013-2021 supported
+Example: full_report=2020
+Enter quit to exit program

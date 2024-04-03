@@ -1,0 +1,66 @@
+.faculty-card {
+    width: 437px;
+    height: auto;
+    margin: 20px;
+    padding: 40px 24px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.profile-picture {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-picture img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.info {
+    margin: 24px 0;
+    text-align: center;
+}
+
+.curriculum-topics {
+    text-align: center;
+}
+
+.topics {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    font-size: 15px;
+}
+.label {
+    font-family: "Public Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+.faculty-name {
+    font-family: "Public Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.faculty-title {
+    height: 30px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    font-size: 15px;
+}

@@ -1,0 +1,5 @@
+To run this project, navigate into the frontend folder,
+In the terminal, run the command to install packages: npm install 
+After the packages are installed 
+Run the command: npm run dev 
+Test data is added to the project to handle all edge cases based on the information provided in the assessment instruction document 
